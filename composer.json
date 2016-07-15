@@ -1,0 +1,16 @@
+{
+    "name": "mickeyur/yii2-menu-item",
+    "description": "Yii-2 menu module",
+    "authors": [
+        {
+            "name": "mickeyur",
+            "email": "mickey.ur@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "mickey\\menuItem\\": ""
+        }
+    }
+}
